@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Data Intelli</title><link href="/" rel="alternate"></link><link href="/feeds/liang-kun.atom.xml" rel="self"></link><id>/</id><updated>2014-07-13T21:03:00+08:00</updated><entry><title>Hello, Data Intelli !</title><link href="/hello-data-intelli.html" rel="alternate"></link><updated>2014-07-13T21:03:00+08:00</updated><author><name>Liang Kun</name></author><id>tag:,2014-07-13:hello-data-intelli.html</id><summary type="html">&lt;p&gt;欢迎来到Data Intelli，网站建设中...&lt;/p&gt;
+&lt;p&gt;::= λf. (λx. f (λy. x x y)) (λx. f (λy. x x y))&lt;/p&gt;
+</summary><category term="hello"></category></entry></feed>
