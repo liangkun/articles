@@ -2,15 +2,15 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'liangkun\x1b[C\x1bLiang Kun'
-SITENAME = u'Data Intelli'
+AUTHOR = 'Liang Kun'
+SITENAME = 'Data Intelli'
 SITEURL = ''
 
 PATH = 'content'
 
 TIMEZONE = 'Asia/Shanghai'
 
-DEFAULT_LANG = u'zh'
+DEFAULT_LANG = 'zh'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -21,7 +21,7 @@ TRANSLATION_FEED_ATOM = None
 LINKS = (('我原来的Blog', 'http://freearth.blog.chinaunix.net'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),)
+SOCIAL = (('weibo', '#'),)
 
 DEFAULT_PAGINATION = 7
 
